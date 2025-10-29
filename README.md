@@ -4,3 +4,4 @@
 “Project 05 version1 completed”
 "3rd Team Member: <김주훈>"
 "3rd Team Member: <20241050>
+"Project 05 version3 completed"
